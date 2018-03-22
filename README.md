@@ -4,7 +4,7 @@
 
 -- An assignment that implemented an API server using Express.  
 
-In this assignment I built the back end of the Very Simple To Do app (VSTDA).  
+In this assignment I built the back end of the Very Simple To Do App (VSTDA).  
 
 The front end of this application will be built at a later time.
 
